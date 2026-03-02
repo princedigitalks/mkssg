@@ -1,0 +1,11 @@
+{
+  "appId": "com.digitalsitara.mkssg",
+  "appName": "MKSSG",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "PushNotifications": {
+      "presentationOptions": ["badge", "sound", "alert"]
+    }
+  }
+}

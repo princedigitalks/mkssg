@@ -1,0 +1,163 @@
+@media screen and (max-width: 768px){
+    .profile-head .profile-picture{
+        
+        bottom:-75px;
+        width:100px;
+        
+        border-radius: 250px;
+        border:2px solid #fff;
+    }
+
+    .profile-margin-top{
+        margin-top:70px;
+    }
+    .profile-picture5 img{
+        width:95px;
+        display: block;
+        
+        border-radius: 10px;
+        margin-top:-45px;
+        margin-left:auto;
+        margin-right: auto;
+    }
+}
+@media screen and (max-width: 991px){
+    body{
+        font-size: var(--phone-text);
+    }
+    .container{
+        max-width:100% !important;
+    }
+    .logo{
+        display:none;
+    }
+
+    .fix-sidebar{
+        position: fixed;
+        top:0;
+        left:-1700px;
+        background: var(--cream);
+        padding:0px;
+        height:100%;
+        width:75%;
+        z-index: 12;
+        transition: 0.5s;
+        /*-webkit-box-shadow: 0 .125rem .25rem rgba(0,0,0,.075);
+        -moz-box-shadow: 0 .125rem .25rem rgba(0,0,0,.075);
+        box-shadow: 0 .125rem .25rem rgba(0,0,0,.075);*/
+        
+    }
+
+    
+    .slide-sidebar{
+        transition: 0.5s;
+        left:0px;
+    }
+
+    #mobile-menu-launcher{
+        display:block;
+        position: sticky;
+        padding:0;
+        top:0;
+        padding:7px 48px 8px 10px;
+        width:40px;
+        left:0;
+        
+        color:var(--timber);
+    }
+
+    .topbar{
+        display: block;
+        width:100%;
+        left:0;
+        position: fixed;
+        background: var(--white);
+        z-index: 10;
+        height:50px;
+    }
+
+    .nav-item{
+        padding-left:15px;
+        padding-right:15px;
+    }
+    
+    .phone-pt{
+        padding-top:65px;
+    }
+
+    .phone-mt{
+        margin-top:24px;
+    }
+
+    .show-pc{
+        display: none;
+    }
+
+    .show-phone{
+        display: block;
+    }
+
+    .logo-phone{
+        display: block;
+        width:150px;
+    }
+
+    .btn-group-temp, .btn-group-temp .btn{
+        display: block;
+        width:100%;
+        margin-top:5px;
+    }
+
+    .feed-block .post-images img{
+        border:2px solid #fff;
+        width:25%;
+    }
+    .center-text-phone{
+        text-align: center;
+    }
+
+    .single-user-content, .single-user-actions{
+        margin-top:0px;
+    }
+    .single-user-content{
+        font-size: 14px;
+    }
+
+    .profile-nav-links .nav-pills, .profile-nav-links .nav-link{
+        display: block;
+        text-align: left;
+    }
+
+}
+@media screen and (min-width: 1024px){
+	
+}
+
+@media screen and (min-width: 1025px){
+    
+    
+}
+
+@media screen and (min-width: 1200px){
+    
+    
+
+}
+
+@media screen and (min-width: 1366px){
+    
+}
+
+@media screen and (min-width: 1400px){
+    
+    
+}
+
+@media screen and (min-width: 1920px){
+    
+
+}
+
+@media screen and (min-width: 2048px){
+    
+}

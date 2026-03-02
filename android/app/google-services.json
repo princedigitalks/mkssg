@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49247988886",
+    "project_id": "mkssg-app",
+    "storage_bucket": "mkssg-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49247988886:android:acfb7eb7a9d076d32b66b7",
+        "android_client_info": {
+          "package_name": "com.digitalsitara.mkssg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49247988886-2lcfd0pg48prvrtu3nbv8oa3q3okel05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg71gO6mJQjA-kXqw6sUZTKLOSrET7Ppc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49247988886-2lcfd0pg48prvrtu3nbv8oa3q3okel05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

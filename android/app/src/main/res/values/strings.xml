@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MKSSG</string>
+    <string name="title_activity_main">MKSSG</string>
+    <string name="package_name">com.digitalsitara.mkssg</string>
+    <string name="custom_url_scheme">com.digitalsitara.mkssg</string>
+</resources>
